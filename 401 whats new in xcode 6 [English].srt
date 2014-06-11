@@ -18,7 +18,7 @@ into a few specific areas
 
 5
 00:00:28,419 --> 00:00:32,860
-have Xcode sex before we do though
+have Xcode6 before we do though
 
 6
 00:00:32,086 --> 00:00:35,137
@@ -65,7 +65,7 @@ this fall
 
 15
 00:01:15,096 --> 00:01:22,096
-will be releasing Xcode sex with an even
+will be releasing Xcode6 with an even
 more beautiful and functional interface
 
 16
@@ -209,7 +209,7 @@ applications
 
 46
 00:03:38,599 --> 00:03:42,646
-an Xcode sex you can use to reports
+an Xcode6 you can use to reports
 develop your life can applications as
 
 47
@@ -527,7 +527,7 @@ so that's just
 115
 00:08:31,085 --> 00:08:35,088
 a quick two were have some love the
-feature areas in Xcode sex and now we'd
+feature areas in Xcode6 and now we'd
 
 116
 00:08:36,015 --> 00:08:36,021
